@@ -5,13 +5,14 @@ import Body from './components/Body';
 import Card from './components/Card'
 import ItemListContainer from './components/ItemListContainer';
 
+
+
 function App() {
   return (
     <div className="App">     
     <Titulo />
     <NavBar />
     <Body><ItemListContainer><Card /></ItemListContainer></Body>
-
   </div> 
   )
 }
