@@ -2,11 +2,11 @@ import './Card.css';
 
 
 
-function Card( {product , price}) {
+function Card(props) {
   return (
     <div>
-        <h3>{product}</h3>
-        <p>{price}</p>
+        <h3>{props.product}</h3>
+        <p>{props.price}</p>
     </div>
   );
 }

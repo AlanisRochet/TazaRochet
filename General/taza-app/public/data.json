@@ -1,0 +1,179 @@
+[
+    {
+        "nombre":"Taza Simpson",
+        "stock":"5",
+        "precio":"$950",
+        "categoria":"taza",
+        "id":"1",
+        "img":""
+    },
+    {
+        "nombre":"Taza Simpson",
+        "stock":"2",
+        "precio":"$950",
+        "categoria":"taza",
+        "id":"2",
+        "img":""
+    },
+    {
+        "nombre":"Taza Simpson",
+        "stock":"3",
+        "precio":"$950",
+        "categoria":"taza",
+        "id":"3",
+        "img":""
+    },
+    {
+        "nombre":"Taza Simpson",
+        "stock":"6",
+        "precio":"$950",
+        "categoria":"taza",
+        "id":"4",
+        "img":""
+    },
+    {
+        "nombre":"Vaso Simpson",
+        "stock":"3",
+        "precio":"$750",
+        "categoria":"vaso",
+        "id":"5",
+        "img":""
+    },
+    {
+        "nombre":"Vaso Simpson",
+        "stock":"5",
+        "precio":"$750",
+        "categoria":"vaso",
+        "id":"6",
+        "img":""
+    },
+    {
+        "nombre":"Vaso Simpson",
+        "stock":"4",
+        "precio":"$750",
+        "categoria":"vaso",
+        "id":"7",
+        "img":""
+    },
+    {
+        "nombre":"Botella Simpson",
+        "stock":"3",
+        "precio":"$1.050",
+        "categoria":"botella",
+        "id":"8",
+        "img":""
+    },
+    {
+        "nombre":"Botella Simpson",
+        "stock":"4",
+        "precio":"$1.050",
+        "categoria":"botella",
+        "id":"9",
+        "img":""
+    },
+    {
+        "nombre":"Taza Stitch",
+        "stock":"2",
+        "precio":"$950",
+        "categoria":"taza",
+        "id":"10",
+        "img":""
+    },
+    {
+        "nombre":"Taza Stitch",
+        "stock":"6",
+        "precio":"$950",
+        "categoria":"taza",
+        "id":"11",
+        "img":""
+    },
+    {
+        "nombre":"Botella Stitch",
+        "stock":"2",
+        "precio":"$1.050",
+        "categoria":"botella",
+        "id":"12",
+        "img":""
+    },
+    {
+        "nombre":"Botella Stitch",
+        "stock":"1",
+        "precio":"$1.050",
+        "categoria":"botella",
+        "id":"13",
+        "img":""
+    },
+    {
+        "nombre":"Botella Stitch",
+        "stock":"4",
+        "precio":"$1.050",
+        "categoria":"botella",
+        "id":"14",
+        "img":""
+    },
+    {
+        "nombre":"Chopp Stitch",
+        "stock":"1",
+        "precio":"$1.500",
+        "categoria":"Chopp",
+        "id":"15",
+        "img":""
+    },
+    {
+        "nombre":"Taza Dagon Ball",
+        "stock":"3",
+        "precio":"$950",
+        "categoria":"taza",
+        "id":"16",
+        "img":""
+    },
+    {
+        "nombre":"Taza Dragon Ball",
+        "stock":"2",
+        "precio":"$950",
+        "categoria":"taza",
+        "id":"17",
+        "img":""
+    },
+    {
+        "nombre":"Botella Dragon Ball",
+        "stock":"3",
+        "precio":"$1.050",
+        "categoria":"botella",
+        "id":"18",
+        "img":""
+    },
+    {
+        "nombre":"Botella Dragon Ball",
+        "stock":"4",
+        "precio":"$1.050",
+        "categoria":"botella",
+        "id":"19",
+        "img":""
+    },
+    {
+        "nombre":"Botella Dragon Ball",
+        "stock":"1",
+        "precio":"$1.050",
+        "categoria":"botella",
+        "id":"20",
+        "img":""
+    },
+    {
+        "nombre":"Taza Sonic",
+        "stock":"4",
+        "precio":"$950",
+        "categoria":"taza",
+        "id":"21",
+        "img":""
+    },
+    {
+        "nombre":"Taza Sonic",
+        "stock":"2",
+        "precio":"$950",
+        "categoria":"taza",
+        "id":"22",
+        "img":""
+    }
+
+]
