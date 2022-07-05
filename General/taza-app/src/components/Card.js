@@ -1,4 +1,6 @@
 import './Card.css';
+import Container from '../components/container/Container';
+
 
 
 
@@ -10,7 +12,7 @@ function Card(props) {
         <p>{props.price}</p>
         </div>
         <div>
-          <button>Ver detalles del producto</button>
+        <Container/>
         </div>
     </div>
   );

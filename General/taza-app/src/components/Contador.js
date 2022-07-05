@@ -5,7 +5,7 @@ function Contador({stock}){
     const [num, setNum]= useState(0);
 
     useEffect(()=>{
-        if(num == stock - 2){
+        if(num === stock - 2){
             Swal.fire({
                 title: 'Atencion!',
                 text: 'Quedan pocas unidades.',
