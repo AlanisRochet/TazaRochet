@@ -1,0 +1,10 @@
+.div1{
+    margin-right:25% ;
+    margin-left: 25%;
+    background-color:white;
+}
+.div2{
+ border: solid 1px black;
+ margin: 10px;
+ text-align: center;
+}

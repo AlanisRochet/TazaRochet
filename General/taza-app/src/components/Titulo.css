@@ -1,0 +1,14 @@
+.divtit{
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+}
+.divh1tit{
+    color:rgb(247, 252, 0);
+    font-size: 60px;
+    font-family: 'Bangers', cursive;
+}
+.divh2tit{
+    color:white;
+    font-family: 'Gloria Hallelujah', cursive;
+}
